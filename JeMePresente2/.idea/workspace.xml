@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2331f5b2-d1c1-4afc-ae1b-545fe963023a" name="Default Changelist" comment="" />
+    <list default="true" id="2331f5b2-d1c1-4afc-ae1b-545fe963023a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Beach.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,10 +23,15 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1aHaGAaXn1TIodDCFonEzUtY2ww" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,15 +40,18 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\phil_\Desktop\Projet integration 1\Ltdray\JeMePresente2\img" />
+      <recent name="C:\Users\phil_\PhpstormProjects\JeMePresente\img" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\phil_\PhpstormProjects\JeMePresente" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\phil_\PhpstormProjects\JeMePresente\img" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -54,6 +69,7 @@
       <workItem from="1586448788396" duration="2823000" />
       <workItem from="1586805122152" duration="606000" />
       <workItem from="1586990172623" duration="3203000" />
+      <workItem from="1587600502800" duration="3997000" />
     </task>
     <servers />
   </component>
@@ -61,9 +77,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1586395399855">
+    <state x="399" y="14" key="CommitChangelistDialog2" timestamp="1587604695498">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="399" y="14" key="CommitChangelistDialog2/0.0.1536.824/1920.0.2048.824@0.0.1536.824" timestamp="1587604695498" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1587601139405">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.2048.824@0.0.1536.824" timestamp="1587601139405" />
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586395399855" />
     <state x="930" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1586990179539">
       <screen x="0" y="0" width="1536" height="824" />
